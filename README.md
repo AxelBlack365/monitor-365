@@ -1,4 +1,9 @@
 <img src="pic/github/Monitor365-9.png" alt="Monitor365-9" style="zoom:50%;" />
+✍️**Preface**
+
+Welcome to trying out Monitor 365! As a startup product, the project team is progressively refining and expanding the product's features. **Once the product reaches a stable state, we will release the source code as open-source.**
+
+You can leave any questions or suggestions regarding the product here, or contact us directly at monitor-365@outlook.com. We hold every user's feedback in the highest regard and look forward to your reviews!
 
 📚**Product Description**
 
