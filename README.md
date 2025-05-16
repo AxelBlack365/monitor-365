@@ -8,9 +8,9 @@ You can leave any questions or suggestions regarding the product here, or contac
 
 📚**Product Description**
 
-**https://www.monitor-365.com/**
+**https://monitor365.online/**
 
-Monitor 365 utilizes globally distributed nodes to simulate user visits, combined with technologies such as fingerprint recognition, web crawlers, and vulnerability scan. It periodically collects data from target websites and conducts comprehensive analyses from multiple perspectives, including **uptime, certificates, domains, IPs, DNS, tech stacks, links, content change, keywords, information leakage, malware, and vulnerabilities (in development)**.
+Monitor 365 utilizes globally distributed nodes to simulate user visits, combined with technologies such as fingerprint recognition, web crawlers, and vulnerability scan. It periodically collects data from target websites and conducts comprehensive analyses from multiple perspectives, including **uptime, SSL certificates, domains, IPs, DNS, tech stacks, links, website defacement, keywords, data leaks, malicious code, and vulnerabilities (in development)**.
 The platform proactively identifies potential threats or anomalies that could compromise website security and uptime. By delivering real-time alerts, it empowers users to address issues swiftly, ensuring the stability, resilience, and overall health of their websites.
 
 ![Monitor365-2](pic/github/Monitor365-2.png)
@@ -23,18 +23,18 @@ After users configure the target website, Monitor 365 initiates periodic monitor
 
 📱**Core Features**
 
-- **Uptime Monitor:** Globally distributed, node-based monitoring with multi-level validation for uptime and responsiveness.
-- **Certificate Monitor:** Retrieves information about the website’s certificate issuer, validity period, and verifies certificate trustworthiness.
-- **Domain Monitor:** Checks domain registration details and validates expiration status.
-- **Block Monitor:** Identifies DNS-level restrictions on the target website.
-- **Basic Security Monitor:** Ensures the website is configured with HTTP security headers.
-- **Fingerprint Recognition:** Utilizes a proprietary, self-developed engine to analyze and track changes in the website's tech stack.
-- **Link Monitor:** Captures link data, tracks new additions, and assesses their health.
-- **Malicious Host Monitor:** Extract referenced domains or IPs on the website and assess their risk level.
-- **Content Change Monitor:** Monitor website content changes and locate the modified parts.
-- **Keyword Monitor:** Compares website content to a keyword database to ensure compliance.
-- **Information Leakage Monitor:** Detects leaks of personal identification data, CLOUD-KEY, and other information.
-- **Malware Injection Monitor:** Detect if the website has been injected with malicious code.
+- **Uptime Monitoring:** Globally distributed, node-based monitoring with multi-level validation for uptime and responsiveness.
+- **SSL Monitoring:** Retrieves information about the website’s certificate issuer, validity period, and verifies certificate trustworthiness.
+- **Domain Monitoring:** Checks domain registration details and validates expiration status.
+- **DNS Monitoring:** Identifies DNS-level restrictions on the target website.
+- **Defacement Monitoring:** Monitor website content changes and locate the modified parts.
+- **Keyword Monitoring:** Compares website content to a keyword database to ensure compliance.
+- **Data Leak Check:** Detects exposure of PII, Cloud Keys, and other sensitive information.
+- **External Link Check:** Captures link data, tracks new additions, and assesses their health.
+- **Reputation Check:** Extract referenced domains or IPs on the website and assess their risk.
+- **Malicious Code Check:** Detect if the website has been injected with malicious code.
+- **HTTP Header Check:** Ensures the website is configured with HTTP security headers.
+- **Website Technology Check:** Utilizes a proprietary, self-developed engine to analyze and track changes in the website's technology stack.
 - **Vulnerability Scan (In Development):** Detects website vulnerabilities, assesses severity, and provides remediation recommendations.
 - **Monitoring Tasks:** Conducts periodic scans for comprehensive website health assessment.
 - **Alert Notifications:** Sends alert notifications based on incidents severity.
@@ -55,7 +55,6 @@ After users configure the target website, Monitor 365 initiates periodic monitor
 
 🆚**Competitive Comparison**
 
-Monitor 365, a 24/7 platform for website security and uptime monitor, **provides all features free of charge**. Unlike conventional products, it provides a comprehensive suite of features, including blocking detection, basic security checks, fingerprint recognition, link monitor, malicious host monitor, content change monitor, keyword monitor, information leakage monitor, malware injection monitor, and vulnerability scan(in development) . **This all-in-one solution addresses diverse website monitor needs efficiently**.
+Monitor 365, a 24/7 platform for website security and uptime monitoring, **provides all features free of charge**. Unlike conventional products, it provides a comprehensive suite of features, including DNS monitoring, website defacement monitoring, keyword monitoring, data leak check, external link check, reputation check, malicious code check, HTTP Header check, website technology check and vulnerability scan(in development) . **This all-in-one solution addresses diverse website monitoring needs efficiently.**
 
 ![Monitor365-8](pic/github/Monitor365-8.png)
-
